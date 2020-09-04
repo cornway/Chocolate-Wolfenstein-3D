@@ -1,4 +1,4 @@
-Chocolate-Wolfenstein-3D
+Chocolate-Wolfenstein-3D Port to the microcontroller boards
 ========================
 
 Based on Wolf4SDL by Moritz "Ripper" Kroll (http://www.chaos-software.de.vu).
